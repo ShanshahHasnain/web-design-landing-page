@@ -42,6 +42,7 @@ project-folder
 │
 ├── index.html
 ├── styles.css
+├── assets
 
 
 ---
